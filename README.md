@@ -1,4 +1,4 @@
-# Introducción  {#introducci-n}
+# Introducción
 
 Este curso va dirigido a todo aquel profesorado de la especialidad de Lengua Castellana y Literatura que quiera trabajar la Sintaxis de una forma dinámica e interactiva.
 
