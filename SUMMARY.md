@@ -11,3 +11,6 @@
 * [1.Categorías gramaticales](1categorias_gramaticales.md)
 
 ### Se añadirá más material los próximos días
+---
+### Créditos
+* [Autoría](crditos.md)
