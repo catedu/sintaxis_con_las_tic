@@ -8,7 +8,15 @@
 ### 1. Las categorías gramaticales
 * [Programa a desarrollar](1las_categorias_gramaticales/programa_a_desarrollar_en_el_primer_modulo.md)
 * [Fase inicial](1las_categorias_gramaticales/fase_inicialvisualizaci_on_de_un_video_educativo_y.md)
-* [1.Categorías gramaticales](1categorias_gramaticales.md)
+* [Fase dos](fase_dos_realizacion_de_actividades_interactivas.md)
+* [Fase tres](fase_tres_en_clase.md)
+* [Fase cuatro](fase_cuatro_evaluacion_del_alumnado.md)
+
+### 2. El sintagma
+* [Programa a desarrollar](2el_sintagma/programa_a_desarrollar_modulo_2.md)
+* [El sintagma](2el_sintagma/el_sintagma.md)
+* [Fase inicial y dos](2el_sintagma/fase_inicial_y_dos_en_casa.md)
+
 
 ### Se añadirá más material los próximos días
 ---

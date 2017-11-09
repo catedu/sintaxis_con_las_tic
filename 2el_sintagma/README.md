@@ -1,1 +1,0 @@
-# 2.El sintagma {#2-el-sintagma}

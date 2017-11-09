@@ -1,6 +1,6 @@
 # 3.La oración simple {#3-la-oraci-n-simple}
 
-    ![images (3).png](images/image115.png)
+    ![images (3).png](/images/image115.png)
 
 La Sintaxis se concibe como un eslabón más de la Gramática a la cual se le atribuye el papel de investigar la FUNCIÓN  que desempeñan las distintas categorías gramaticales en el contexto de una ORACIÓN, así como el VÍNCULO que establecen entre ellas y la ESTRUCTURA adoptada.
 
