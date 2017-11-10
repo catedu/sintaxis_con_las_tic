@@ -8,12 +8,12 @@ La red nos proporciona gran cantidad de material virtual de carácter abierto  p
 
 * Actividades de repaso, combinando, en algunos casos, teoría y ejercicios.
 
-    * [Teoría y ejercicios con soluciones](http://delenguayliteratura.com/MORFOLOGIA.html
-    * Reconocer categorías gramaticales [I](http://www.xtec.cat/~jgenover/gracat1.htm
-    * Actividades de repaso [ I](https://www.cerebriti.com/juegos-de-lengua/categorias-gramaticales%23.Wc4rvWh-rcs
-    * Recopilación de páginas para repasar las categorías gramaticales I y[ II](http://www.xtec.cat/~jgenover/morfo.htm
+    * [Teoría y ejercicios con soluciones](http://delenguayliteratura.com/MORFOLOGIA.html)
+    * [Reconocer categorías gramaticales](http://www.xtec.cat/~jgenover/gracat1.htm)
+    * [Actividades de repaso](https://www.cerebriti.com/juegos-de-lengua/categorias-gramaticales%23.Wc4rvWh-rcs)
+    * [Recopilación de páginas para repasar las categorías gramaticales](http://www.xtec.cat/~jgenover/morfo.htm)
 
-* Juegos interactivos [I](https://www.cerebriti.com/juegos-de-categorías+gramaticales/tag/mas-recientes/**]) y [II](https://www.cerebriti.com/juegos-de-categor%25C3%25ADas%2Bgramaticales/tag/mas-recientes/:
+* Juegos interactivos [I](https://www.cerebriti.com/juegos-de-categorías+gramaticales/tag/mas-recientes/**]) y [II](https://www.cerebriti.com/juegos-de-categor%25C3%25ADas%2Bgramaticales/tag/mas-recientes/)
 
 Trabajar el repaso de las categorías gramaticales por medio  del juego donde el alumnado tiene un tiempo limitado de respuesta incrementa su motivación al sentirse incitado a la acción, mejorando tanto su capacidad de atención como su tiempo de reacción.
 
@@ -23,6 +23,6 @@ Llegado este punto, se os puede plantear la siguiente duda… ¿y cómo proporci
 
 ![emoticono apurado.png](/images/image94.png)
 
-¡¡¡¡NO OS PREOCUPÉIS !!!!! [Google Classroom](https://classroom.google.com/ tiene la solución. En esta herramienta de carácter gratuito, entre otras  muchas funciones, se encuentra la de poder enviar tareas por medio del correo electrónico a las que vosotros, como profesores, tendréis la oportunidad de agregar anotaciones en el mismo momento que las realicen.
+¡NO OS PREOCUPÉIS! [Google Classroom](https://classroom.google.com/) tiene la solución. En esta herramienta de carácter gratuito, entre otras  muchas funciones, se encuentra la de poder enviar tareas por medio del correo electrónico a las que vosotros, como profesores, tendréis la oportunidad de agregar anotaciones en el mismo momento que las realicen.
 
 ![images (1).jpg](/images/image111.jpg)                 ![Sin título.png](/images/image127.png)

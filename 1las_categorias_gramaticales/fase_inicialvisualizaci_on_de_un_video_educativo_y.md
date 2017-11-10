@@ -20,15 +20,15 @@ De este modo, podréis elaborar vuestros propios vídeos o aprovechar aquellos q
 
 ### Herramientas {#herramientas}
 
-En el siguiente vídeo una profesora realiza su propia [explicación](https://www.youtube.com/watch?v%3DAkt3bJZc1YA sobre las categorías gramaticales y ,en un determinado momento, lanza una pregunta a sus alumnos para que la resuelvan. Para ello, les propone parar el vídeo, que reflexionen acerca de su posible respuesta y cuando ya consideren que han dado con ella, den al play para comprobar si es correcta o incorrecta. Es ahí cuando interviene la profesora  proporcionándoles la respuesta apropiada.
+En el siguiente vídeo una profesora realiza su propia [explicación](https://www.youtube.com/watch?v%3DAkt3bJZc1YA) sobre las categorías gramaticales y ,en un determinado momento, lanza una pregunta a sus alumnos para que la resuelvan. Para ello, les propone parar el vídeo, que reflexionen acerca de su posible respuesta y cuando ya consideren que han dado con ella, den al play para comprobar si es correcta o incorrecta. Es ahí cuando interviene la profesora  proporcionándoles la respuesta apropiada.
 
 Esta opción, desde mi punto de vista,  se queda obsoleta si tenemos en cuenta la multitud de posibilidades innovadoras que nos ofrecen las herramientas web en este aspecto, tal y como váis a poder comprobar en los apartados siguientes.
 
 #### Youtube Teachers {#youtube-teachers}
 
-En [Youtube teachers](https://www.youtube.com/user/teachers podréis localizar con mayor facilidad y rapidez el vídeo educativo que necesitéis en cada momento, ya que éstos se encuentran clasificados por ámbito temático y nivel educativo.
+En [Youtube teachers](https://www.youtube.com/user/teachers) podréis localizar con mayor facilidad y rapidez el vídeo educativo que necesitéis en cada momento, ya que éstos se encuentran clasificados por ámbito temático y nivel educativo.
 
-Si  hacemos referencia a la cuestión que nos concierne en este momento como son las "categorías gramaticales", si pincháis en el siguiente [enlace](https://www.youtube.com/results?search_query%3Dlas%2Bcategor%25C3%25ADas%2Bgram podréis observar cómo nos aparecen gran cantidad de vídeos educativos sobre esta temática que nosotros podemos aprovechar e incorporar en nuestras clases de Lengua.
+Si  hacemos referencia a la cuestión que nos concierne en este momento como son las "categorías gramaticales", si pincháis en el siguiente [enlace](https://www.youtube.com/results?search_query%3Dlas%2Bcategor%25C3%25ADas%2Bgram) podréis observar cómo nos aparecen gran cantidad de vídeos educativos sobre esta temática que nosotros podemos aprovechar e incorporar en nuestras clases de Lengua.
 
 ![YOU TUBE.png](/images/image39.png)     ![Sin título.png](/images/image69.png)
 
