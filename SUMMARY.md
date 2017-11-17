@@ -19,6 +19,10 @@
 * [Fase tres](2el_sintagma/fase_tres_en_clase.md)
 * [Fase cuatro](2el_sintagma/fase_cuatro_evaluacion_del_alumnado.md)
 
+### 3. La oración simple
+* [La oración simple](3la_oracion_simple/README.md)
+
+
 ### Se añadirá más material los próximos días
 ---
 ### Créditos
