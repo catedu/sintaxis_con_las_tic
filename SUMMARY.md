@@ -21,6 +21,10 @@
 
 ### 3. La oración simple
 * [La oración simple](3la_oracion_simple/README.md)
+* [Fase inicial](3la_oracion_simple/fase_inicialen_casa.md)
+* [Fase segunda](3la_oracion_simple/fase_segunda__en_casa.md)
+* [Fase tres](3la_oracion_simple/fase_tresen_clase.md)
+* [Fase cuatro](3la_oracion_simple/fase_cuatro_evaluacion_del_alumnado.md)
 
 
 ### Se añadirá más material los próximos días
