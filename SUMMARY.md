@@ -29,7 +29,7 @@
 ### 4. Los complementos del verbo
 
 * [Objetivos](4los_complementos_verbo.md)
-* [Fase inicial y dos](/home/jesus/Documentos/libros/mejorar-la-sintaxis-con-las-tic/4los_complementos_verbo/README.md)
+* [Fase inicial y dos](4los_complementos_verbo/README.md)
 
 ### Se añadirá más material los próximos días
 ---
