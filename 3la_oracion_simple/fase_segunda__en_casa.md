@@ -16,7 +16,7 @@ Para que nuestros alumnos puedan acceder al formulario online, una vez que lo ha
 
 ![](/images/image43.png)
 
-{% youtube %}https://www.youtube.com/watch?v%3DH35RGAGWhh0{% endyoutube %}
+{% youtube %}https://www.youtube.com/watch?v=ttm1_SMTOyM{% endyoutube %}
 
 ¡¡ATENCIÓN!! Typerform nos ofrece la posibilidad de introducir, como paso previo a la elaboración de la encuesta, una **página de bienvenida** donde podéis incrustar [imágenes](https://www.typeform.com/help/es/anadir-imagenes-gifs-animados-y-videos/) confeccionadas por vosotros mismos o existentes ya en la red para presentar o, en otro caso, repasar los contenidos didácticos.
 

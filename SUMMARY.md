@@ -26,6 +26,9 @@
 * [Fase tres](3la_oracion_simple/fase_tresen_clase.md)
 * [Fase cuatro](3la_oracion_simple/fase_cuatro_evaluacion_del_alumnado.md)
 
+### 4. Los complementos del verbo
+
+[Objetivos](4los_complementos_verbo.md)
 
 ### Se añadirá más material los próximos días
 ---
