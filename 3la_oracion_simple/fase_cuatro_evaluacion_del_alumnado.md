@@ -16,7 +16,7 @@ A la hora de responder a la distintas cuestiones planteadas, podemos inclinarnos
 
 Todo ello lo podéis realizar de manera totalmente gratuita o con la versión de pago.          
 
-{% youtube %}(https://www.youtube.com/watch?v%3DuHJ8BfUpPk0{% endyoutube %}
+{% youtube %}(https://www.youtube.com/watch?v=uHJ8BfUpPk0{% endyoutube %}
 
 De la misma manera, Flipquiz lo podéis usar en combinación con la herramienta Classdojo para repasar antes de un examen por medio de los siguientes pasos:
 

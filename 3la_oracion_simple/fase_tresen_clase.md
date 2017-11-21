@@ -10,7 +10,7 @@ En primer lugar, os presento a Mentimeter,  la cual tiene una versión gratuita 
 
 ![](/images/image83.png)
 
-{% youtube %}https://www.youtube.com/watch?v%3DZdKv8dGSYX8{% endyoutube %}       
+{% youtube %}https://www.youtube.com/watch?v=ZdKv8dGSYX8{% endyoutube %}       
 
 ![](/images/image149.png)   
 
@@ -33,7 +33,7 @@ En segundo lugar, vamos a adentrarnos en el mundo de esta multiplataforma app Ne
 ![](/images/image88.png)                 
 ![](/images/image71.png)
 
-{% youtube %}https://www.youtube.com/watch?v%3Dd1jPS4koKiA{% endyoutube %}
+{% youtube %}https://www.youtube.com/watch?v=d1jPS4koKiA{% endyoutube %}
 
 Esta plataforma, nos permite trabajar las cuestiones planteadas sobre la oración simple directamente desde el ordenador en el aula, o en el caso que lo prefiráis, [modalidad __homework__](https://nearpod.zendesk.com/hc/en-us/articles/213840443-How-do-I-create-homework-assignments-) se pueden hacer llegar al alumno a partir de Nearpod.
 
