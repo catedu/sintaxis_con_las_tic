@@ -30,6 +30,10 @@
 
 * [Objetivos](/4los_complementos_verbo/4los_complementos_verbo.md)
 * [Fase inicial y dos](4los_complementos_verbo/README.md)
+* [Fase tres](4los_complementos_verbo/fase-tres-en-clase.md)
+* [Fase cuatro](4los_complementos_verbo/fase-cuatro.md)
+
+### 5. La oración compuesta:Yuxtaposición, Coordinación y Subordinación.
 
 ### Se añadirá más material los próximos días
 ---
