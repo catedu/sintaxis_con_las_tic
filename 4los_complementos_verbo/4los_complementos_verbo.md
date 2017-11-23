@@ -1,4 +1,4 @@
-# 4.Los complementos verbo
+# 4. Los complementos del verbo
 
 Una vez estudiados los constituyentes inmediatos de la oración simple, sujeto y predicado, vamos a plantear una serie de alternativas para poder trabajar con nuestro alumnos los distintos complementos que aparecen en el Predicado utilizando como alidadas a las TIC.
 
