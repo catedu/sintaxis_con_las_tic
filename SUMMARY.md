@@ -35,7 +35,7 @@
 
 ### 5. La oración compuesta:Yuxtaposición, Coordinación y Subordinación. 
 
-### Se añadirá más material los próximos días
+### Se añadirá el material de este último tema próximamente.
 ---
 ### Créditos
 * [Autoría](crditos.md)
