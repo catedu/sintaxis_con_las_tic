@@ -34,6 +34,8 @@
 * [Fase cuatro](4los_complementos_verbo/fase-cuatro.md)
 
 ### 5. La oración compuesta:Yuxtaposición, Coordinación y Subordinación. 
+* [Objetivos](5La_oracion_compuesta/README.md)
+* [Fase inicial y dos](5La_oracion_compuesta/fase_uno_y_dos.md)
 
 ### Se añadirá el material de este último tema próximamente.
 ---
