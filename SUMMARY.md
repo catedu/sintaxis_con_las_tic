@@ -36,8 +36,9 @@
 ### 5. La oración compuesta:Yuxtaposición, Coordinación y Subordinación. 
 * [Objetivos](5La_oracion_compuesta/README.md)
 * [Fase inicial y dos](5La_oracion_compuesta/fase_uno_y_dos.md)
+* [Fase tres](5La_oracion_compuesta/fase_tres.md)
+* [Fase cuatro](5La_oracion_compuesta/fase_cuatro.md)
 
-### Se añadirá el material de este último tema próximamente.
 ---
 ### Créditos
 * [Autoría](crditos.md)
