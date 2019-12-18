@@ -1,1 +1,21 @@
-{"plugins": ["youtube", "edit-link", "githubcontributors"], "pluginsConfig": {"edit-link": {"base": "https://github.com/catedu/sintaxis_con_las_tic/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "sintaxis_con_las_tic"}}}
+{
+  "plugins": [
+    "youtube",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/catedu/sintaxis_con_las_tic/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "sintaxis_con_las_tic"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
